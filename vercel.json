@@ -2,23 +2,12 @@
   "redirects": [
     {
       "source": "/privacy-policy/index.html",
-      "destination": "https://www.qibmauz.com/privacy-policy/",
+      "destination": "https://qibmauz.com/privacy-policy/",
       "statusCode": 301
     },
     {
       "source": "/privacy-policy",
-      "destination": "https://www.qibmauz.com/privacy-policy/",
-      "statusCode": 301
-    },
-    {
-      "source": "/privacy-policy/",
-      "has": [
-        {
-          "type": "host",
-          "value": "qibmauz.com"
-        }
-      ],
-      "destination": "https://www.qibmauz.com/privacy-policy/",
+      "destination": "https://qibmauz.com/privacy-policy/",
       "statusCode": 301
     }
   ]
