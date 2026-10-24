@@ -2,12 +2,27 @@
   "redirects": [
     {
       "source": "/privacy-policy/index.html",
-      "destination": "https://qibmauz.com/privacy-policy/",
+      "destination": "https://www.qibmauz.com/privacy-policy/",
       "statusCode": 301
     },
     {
       "source": "/privacy-policy",
-      "destination": "https://qibmauz.com/privacy-policy/",
+      "destination": "https://www.qibmauz.com/privacy-policy/",
+      "statusCode": 301
+    },
+    {
+      "source": "/naija-ajo",
+      "destination": "https://www.qibmauz.com/",
+      "statusCode": 301
+    },
+    {
+      "source": "/naija-ajo/",
+      "destination": "https://www.qibmauz.com/",
+      "statusCode": 301
+    },
+    {
+      "source": "/naija-ajo/index.html",
+      "destination": "https://www.qibmauz.com/",
       "statusCode": 301
     },
     {
