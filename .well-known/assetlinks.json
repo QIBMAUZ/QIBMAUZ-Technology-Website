@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.qibmauz.quickorder",
+      "sha256_cert_fingerprints": [
+        "C9:52:8F:C8:D3:A9:1B:E4:BA:47:6B:67:3B:86:9B:E1:D1:8E:92:02:3B:C6:26:F2:37:7D:51:6F:C7:98:51:5C"
+      ]
+    }
+  }
+]
