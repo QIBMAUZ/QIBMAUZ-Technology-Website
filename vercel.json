@@ -9,6 +9,17 @@
       "source": "/privacy-policy",
       "destination": "https://qibmauz.com/privacy-policy/",
       "statusCode": 301
+    },
+    {
+      "source": "/:path((?!\\.well-known/assetlinks\\.json$).*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "^qibmauz\\.com$"
+        }
+      ],
+      "destination": "https://www.qibmauz.com/:path",
+      "statusCode": 308
     }
   ]
 }
